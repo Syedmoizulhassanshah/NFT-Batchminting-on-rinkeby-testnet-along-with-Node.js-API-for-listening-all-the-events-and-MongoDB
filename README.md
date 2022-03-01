@@ -30,3 +30,4 @@ here we have two scripts EventListner.js and Past_query Kindly use different mon
 
 
 **$ node ./scripts/Past_query.js**
+**$ node ./scripts/api.js**
