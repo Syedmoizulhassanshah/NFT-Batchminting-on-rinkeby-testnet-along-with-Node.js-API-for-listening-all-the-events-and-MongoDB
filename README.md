@@ -4,6 +4,7 @@
 $ git clone https://github.com/Syedmoizulhassanshah/NFT-Batchminting-on-rinkeby-testnet-along-with-Node.js-API-for-listening-all-the-events-and-MongoDB.git
 # 2. Install Dependencies:
 $ cd NFT-Batchminting-on-rinkeby-testnet-along-with-Node.js-API-for-listening-all-the-events-and-MongoDB
+
 $ npm install or npm i
 # 3. Smart Contracts
 Deploy smart contract on rinkeby testnet from truffle or directly from remix
