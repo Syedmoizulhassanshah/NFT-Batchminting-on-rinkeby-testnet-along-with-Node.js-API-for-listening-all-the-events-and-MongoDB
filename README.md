@@ -29,5 +29,5 @@ here we have two scripts EventListner.js and Past_query Kindly use different mon
 
 **$ node ./scripts/EventListner.js**
 
-**$ node ./scripts/api.js
+**$ node ./scripts/api.js**
 
